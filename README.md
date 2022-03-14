@@ -5,7 +5,7 @@ Inspired by
 Blog site:
 https://yaqiX.github.io/Assignment-09/
 
-Binder: https://mybinder.org/v2/gh/yaqiX/FinalProj/9f54caba16f8252240047125845c88f136c70037?urlpath=lab%2Ftree%2FFinal%20Project.ipynb
+Binder: https://mybinder.org/v2/gh/yaqiX/FinalProj.git/HEAD
 
 ## Research Question Introduction
 Before I settled in California, I was always thinking to adopt a cat. So after I finally settle, I check petfinder, if you're not familiar with it, it's a platform that helps you to find pets that are available for adoption.
