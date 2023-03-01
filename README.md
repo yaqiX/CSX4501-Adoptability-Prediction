@@ -1,9 +1,6 @@
-# Final Project: Predict the popularity of shelter pet photos
+# CSX4501 Project: Predict the popularity of shelter pet photos
 Inspired by 
 [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score "PetFinder.my - Pawpularity Contest")
-
-Blog site:
-https://yaqiX.github.io/Assignment-09/
 
 Binder: https://mybinder.org/v2/gh/yaqiX/FinalProj.git/HEAD
 
